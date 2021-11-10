@@ -1,2 +1,2 @@
 # android-converter-project
-this is an android project to convert millimeters to inches
+this is an android project to convert kilometers to centimeters
